@@ -1,0 +1,15 @@
+# Исполняемые файлы
+*_run
+*.o
+*.out
+examples/*_run
+examples/*.o
+project5/bin/* project5/src/*.o 
+
+# Системные файлы macOS
+.DS_Store
+
+# Файлы баз данных (если не хочешь их версионировать)
+# *.db
+# *.sqlite
+# *.sqlite3
